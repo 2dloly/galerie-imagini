@@ -444,6 +444,6 @@ Am creat un proiect în **Svelte** care prezintă o galerie de imagini interacti
     - `categorie3/` (IT)
 
 ---
-[Video Proiect](1.mp4)
+[Video Proiect](https://youtu.be/tTK2iyU0zWM)
 ## Autor: Zama Andrei
 Grupa: IAFR2101(RO)
